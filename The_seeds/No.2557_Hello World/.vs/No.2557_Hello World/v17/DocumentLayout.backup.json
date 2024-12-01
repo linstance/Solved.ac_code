@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7CC481C4-1745-4603-B9E6-4F733F02D39D}|No.2557_Hello World\\No.2557_Hello World.vcxproj|C:\\Users\\allen\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\Solved.ac_code\\The_seeds\\No.2557_Hello World\\No.2557_Hello World\\No.2557_Hello World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7CC481C4-1745-4603-B9E6-4F733F02D39D}|No.2557_Hello World\\No.2557_Hello World.vcxproj|solutionrelative:No.2557_Hello World\\No.2557_Hello World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CC481C4-1745-4603-B9E6-4F733F02D39D}|No.2557_Hello World\\No.2557_Hello World.vcxproj|C:\\Users\\allen\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\Solved.ac_code\\The_seeds\\No.2557_Hello World\\No.2557_Hello World\\No.10171_\uACE0\uC591\uC774.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7CC481C4-1745-4603-B9E6-4F733F02D39D}|No.2557_Hello World\\No.2557_Hello World.vcxproj|solutionrelative:No.2557_Hello World\\No.10171_\uACE0\uC591\uC774.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "No.10171_\uACE0\uC591\uC774.cpp",
-              "DocumentMoniker": "C:\\Users\\allen\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\Solved.ac_code\\The_seeds\\No.2557_Hello World\\No.2557_Hello World\\No.10171_\uACE0\uC591\uC774.cpp",
-              "RelativeDocumentMoniker": "No.2557_Hello World\\No.10171_\uACE0\uC591\uC774.cpp",
-              "ToolTip": "C:\\Users\\allen\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\Solved.ac_code\\The_seeds\\No.2557_Hello World\\No.2557_Hello World\\No.10171_\uACE0\uC591\uC774.cpp",
-              "RelativeToolTip": "No.2557_Hello World\\No.10171_\uACE0\uC591\uC774.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T07:17:04.902Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
